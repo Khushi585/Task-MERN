@@ -1,0 +1,7 @@
+mvc architecture = model(schema) view(views) controller(logic,queries)
+
+app.post("/api/task", (req, res) => {
+    
+})
+
+app.post("api/task") => routing
